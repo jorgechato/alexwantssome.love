@@ -38,11 +38,28 @@ export default function Home() {
       <div className="w-full pt-10 pb-6 bg-orange-300">
         <h2 className="text-2xl">Quien es Alex?</h2>
 
+        <h3 className="text-xl pt-6 px-4">Un hombre de familia y un Chef de 5⭐️ Michelin</h3>
         <p className="mt-6 px-4">
+          En la casa de Alex se respira amor. Es un hombre de familia, que siempre está dispuesto a ayudar a los suyos.
+          <br />
+          <br />
+          Las comidas más deliciosas con colegas han sido con el en la cocina.
+
+          <img src="/familia.JPG" className="rounded-md w-9/12 m-auto my-6" alt="" />
+        </p>
+
+        <h3 className="text-xl pt-6 px-4">Un apasionado de la salud</h3>
+        <p className="mt-6 px-4">
+          Hace unos años, Alex decidió transformar su cuerpo para estar alineado con su mente. Por eso, ha empezado un duro régimen de entrenamiento y alimentación.
+          <br />
+          <br />
+          Ha aumentado 5Kg de puro músculo, perfecto para que te pueda cargar en brazos o mantener la puerta abierta para ti.
+
+          <img src="/bebedor.jpg" className="rounded-md w-9/12 m-auto my-6" alt="" />
         </p>
 
         <p className="mt-6 px-4">
-          Por si tienes alguna duda, aquí te dejo a Alex salvando desinteresadamente a un desnutrido animalito indefenso.
+          Por si aún estás indecisa, aquí te dejo a Alex salvando desinteresadamente a un desnutrido animalito indefenso.
         </p>
         <img src="/Subject.png" className="pt-10 pb-3 px-2" alt="" />
       </div>
